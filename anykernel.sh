@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=seodalmi
+kernel.string=seodalmi-EROFS-KSU
 kernel.compiler=AOSP clang
 kernel.made=GalihMrd
 message.word=
